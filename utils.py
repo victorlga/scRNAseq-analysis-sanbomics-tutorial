@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import scanpy as sc
-import seaborn as sns
 import scvi
 
 def pp(csv_path, ribo_genes):
